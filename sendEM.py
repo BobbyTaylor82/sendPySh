@@ -10,7 +10,7 @@ email = 'bltxr9999@gmail.com' # Your email
 password = 'Bxt.109$$$$' # Your email account password
 #userEmail = input('Enter in the receivers email? ')
 userEmail = "bobby.taylor@broadcom.com"
-send_to_email = userEmail # Who you are sending the message to
+send_to_email = "bltxr9@gmail.com" # Who you are sending the message to
 
 
 
