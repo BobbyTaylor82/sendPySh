@@ -1,11 +1,27 @@
  
-Message IS NOT EMPTY
-BC Message: When are you going to work on installing Endevor on CA66. (userid)
-Mon, Jan 18, 2021  9:22:57 AM
+Message IS EMPTY
+Mon, Jan 18, 2021 10:00:54 AM
+----------------------------
+ 
+"When are you going to work on installing Endevor on CA66. (userid)" 
+The current date is: Mon 01/18/2021 
+Enter the new date: (mm-dd-yy) "-----------------------------------"
+" " 
+When are you going to work on installing Endevor on CA66. (userid)
+Mon Jan 18 10:15:05 CST 2021
+-----------------------------------
+ 
+Hey it worked
+Mon Jan 18 10:16:04 CST 2021
+-----------------------------------
+ 
+Hey it worked
+Mon Jan 18 10:21:20 CST 2021
 -----------------------------------
  
  
-Message IS EMPTY
-Mon, Jan 18, 2021  9:23:17 AM
-----------------------------
+Message IS NOT EMPTY
+Did this work.........lets see
+Mon Jan 18 10:26:57 CST 2021
+-----------------------------------
  
